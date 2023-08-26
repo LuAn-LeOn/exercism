@@ -1,3 +1,1 @@
-def hello():
-    msg = "Hello, World!"
-    return msg
+print("Hello, World!")
